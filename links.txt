@@ -1,0 +1,3 @@
+1) https://www.youtube.com/watch?v=ai9J71DlLhk - экспорт данных в csv формат
+2) https://www.youtube.com/watch?v=g5DTIiFAiSk - кастомизация админ панели
+3) https://www.youtube.com/watch?v=zKuBDil5dlw - парсинг сайтов (requests, bs4)
