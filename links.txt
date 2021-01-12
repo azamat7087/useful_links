@@ -3,3 +3,4 @@
 3) https://www.youtube.com/watch?v=_zkYICsIbXI - экспорт данных в pdf формат
 4) https://www.youtube.com/watch?v=g5DTIiFAiSk - кастомизация админ панели
 5) https://www.youtube.com/watch?v=zKuBDil5dlw - парсинг сайтов (requests, bs4)
+6) https://django.fun/docs/django/ru/3.0/intro/reusable-apps/ - многоразовые приложения - пакеты
