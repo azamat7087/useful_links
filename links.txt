@@ -5,3 +5,5 @@
 5) https://www.youtube.com/watch?v=zKuBDil5dlw - парсинг сайтов (requests, bs4)
 6) https://django.fun/docs/django/ru/3.0/intro/reusable-apps/ - многоразовые приложения - пакеты
 7) https://www.youtube.com/watch?v=vP4ikxeWEIc - установка и настройка psql для Django
+8) https://www.youtube.com/playlist?list=PLVZgTVNoxdMksQAJI7J2IHpNW7rY7U3XI - детальная настройка админки 
+9) https://www.youtube.com/playlist?list=PLF-NY6ldwAWqSxUpnTBObEP21cFQxNJ7C - DRF
